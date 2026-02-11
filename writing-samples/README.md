@@ -8,4 +8,5 @@ I created these samples to demonstrate my technical writing skills and provide e
 - **FAQ / Troubleshooting** — answers common questions and resolves known issues  
 - **Procedural** — guides users through tasks step by step  
 - **Reference** — delivers structured, factual details for quick lookup  
+- **Release Notes** — guides users through what's new in a release
 - **Structural** — outlines how to organize and present documentation
