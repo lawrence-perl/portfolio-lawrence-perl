@@ -10,4 +10,4 @@ I created these samples to demonstrate my technical writing skills and provide e
 - [**Procedural sample**](./procedural-sample-1.pdf) — Guides users through tasks step by step  
 - [**Reference sample**](./reference-sample-1.pdf) — Delivers structured, factual details for quick lookup
 - [**Release Notes sample**](./release-notes-sample-1.pdf) — Guides users through what's new in a release
-- {**Structural sample**](./structural-sample-1.pdf) — Outlines how to organize and present documentation
+- [**Structural sample**](./structural-sample-1.pdf) — Outlines how to organize and present documentation
